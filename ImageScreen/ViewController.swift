@@ -40,7 +40,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func hideImageView1Tapped(_ sender: Any) {
-        hideImageView(imageView2)
+        hideImageView(imageView1)
     }
     
     @IBAction func hideImageView2Tapped(_ sender: Any) {
